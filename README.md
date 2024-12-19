@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5ab552&size=35&center=true&vCenter=true&width=1000&lines=Hey,+you+can+call+me+Giovanna!;I'm+a+front-end+dev+and+designer!;Be+Welcome!+=D)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://www.tynker.com/image/content/how-coding-develops-21st-century-skills/Artboard%2034.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div align="left">
   
@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&labelColor=0D1117)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=0D1117)
 
-### ✦ Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&labelColor=0D1117)

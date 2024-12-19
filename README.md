@@ -43,7 +43,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giovanna.ssant@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ionna.koi)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ab552&height=120&section=footer"/>
+</div>

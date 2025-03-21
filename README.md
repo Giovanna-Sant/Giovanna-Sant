@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=121f59&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=121f59&size=32&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Giovanna!;I'm+a+front-end+dev+and+designer!;Be+Welcome!+=D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#3458f7&size=32&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Giovanna!;I'm+a+front-end+dev+and+designer!;Be+Welcome!+=D)](https://git.io/typing-svg)
 
 <img src="https://www.tynker.com/image/content/how-coding-develops-21st-century-skills/Artboard%2034.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 

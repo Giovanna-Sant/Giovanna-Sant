@@ -21,6 +21,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-1885A3?style=for-the-badge&logo=react&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-215732?style=for-the-badge&logo=node.js&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&labelColor=0D1117)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-Mysql-E59208?style=for-the-badge&logo=mysql&labelColor=0D1117)

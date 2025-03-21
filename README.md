@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ab552&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=121f59&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5ab552&size=35&center=true&vCenter=true&width=1000&lines=Hey,+you+can+call+me+Giovanna!;I'm+a+front-end+dev+and+designer!;Be+Welcome!+=D)](https://git.io/typing-svg)
 
@@ -8,10 +8,11 @@
   
   ### ✦ My Skills
   
-  -  📋 My passion is prototyping and coding projects so they can get off the ground.
+  - 📋 Current studying Software Engineering at FIAP
+  - 🃏 My passion is prototyping and coding projects so they can get off the ground.
   - 🤔 Always looking to provide the best user experience.
   - 🎓 I studied Systems Development at SENAI.
-  - 🌱 Continuously learning about Front-End and Design technologies and aspects.
+  - 🌱 Continuously learning about Front-End and Design technologies.
   - 🎎 Very communicative and willing to learn!
   
 
@@ -45,5 +46,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ionna.koi)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ab552&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=121f59&height=120&section=footer"/>
 </div>
